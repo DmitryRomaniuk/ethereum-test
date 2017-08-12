@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle": "^3.4.8",
+    "zeppelin-solidity": "git+https://github.com/OpenZeppelin/zeppelin-solidity.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "",
+  "license": "ISC"
+}
